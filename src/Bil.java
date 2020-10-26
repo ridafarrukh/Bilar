@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Bil {
+public class Bil {
+    String model;
+    int year;
+    int price;
+
 }
